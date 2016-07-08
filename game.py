@@ -1,4 +1,4 @@
-# Put your code here
+# Put your code here.
 import random
 
 #Greet player
